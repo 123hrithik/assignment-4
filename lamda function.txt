@@ -1,0 +1,6 @@
+Lamada Function
+
+
+func=lambda x:x+25
+x=int(input('enter a number : '))
+func(x)
